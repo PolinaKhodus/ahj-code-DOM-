@@ -1,4 +1,4 @@
-# ahj-code-DOM-
+# ahj-code-DOM-  [![Build status](https://ci.appveyor.com/api/projects/status/tp9ysv293vu31nuw?svg=true)](https://ci.appveyor.com/project/PolinaKhodus/ahj-code-dom)
 
 Перемещение элемента
 Легенда
