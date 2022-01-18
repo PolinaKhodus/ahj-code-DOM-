@@ -1,3 +1,4 @@
+/* eslint-disable import/no-extraneous-dependencies */
 /* eslint-disable linebreak-style */
 const path = require('path');
 const webpack = require('webpack');
